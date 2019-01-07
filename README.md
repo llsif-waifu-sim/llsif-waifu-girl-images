@@ -1,2 +1,2 @@
 # llsif-waifu-girl-images
-Waifu characters images
+LLSIF waifu characters images
